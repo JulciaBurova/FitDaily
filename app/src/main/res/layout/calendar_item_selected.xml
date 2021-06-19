@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cl_calendar_item"
+    android:layout_width="90dp"
+    android:layout_height="90dp"
+    android:layout_marginStart="4dp"
+    android:layout_marginEnd="4dp"
+    android:orientation="vertical"
+    android:background="@drawable/background_selected_date"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/tvCalendarDay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="sans-serif-black"
+        android:gravity="center"
+        android:textColor="#37474F"
+        android:textSize="20sp"
+        tools:text="24" />
+
+    <TextView
+        android:id="@+id/tvCalendarMonth"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="sans-serif-black"
+        android:gravity="center"
+        android:textColor="#757575"
+        android:textSize="14sp"
+        tools:text="grudnia" />
+
+    <TextView
+        android:id="@+id/tvCalendarDayName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:fontFamily="sans-serif"
+        android:textColor="#757575"
+        android:textSize="12sp"
+        tools:text="poniedziałek" />
+
+</LinearLayout>

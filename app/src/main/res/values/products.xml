@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="products">
+        <item>Agrest:41</item>
+        <item>Amarantus, nasiona:400</item>
+        <item>Ananas:54</item>
+        <item>Ananas w syropie:84</item>
+        <item>Anyż:337</item>
+        <item>Arbuz:36</item>
+        <item>Avocado:160</item>
+        <item>Bakłażan:21</item>
+        <item>Baleron:244</item>
+        <item>Banan:95</item>
+        <item>Banany suszone:360</item>
+        <item>Bazylia suszona:251</item>
+        <item>Bazylia świeża:23</item>
+        <item>Biała rzodkiew:14</item>
+        <item>Białko jajka kurzego:49</item>
+        <item>Bób:66</item>
+        <item>Boćwina:17</item>
+        <item>Boczek wędzony:477</item>
+        <item>Botwinka:17</item>
+        <item>Brokuły:27</item>
+        <item>Brukselka:37</item>
+        <item>Brzoskwinia:46</item>
+        <item>Brzoskwinia w syropie:73</item>
+        <item>Bułka owsiana:304</item>
+        <item>Bułka pszenna zwykła:273</item>
+        <item>Bułka sojowa:315</item>
+        <item>Bułka tarta:347</item>
+        <item>Bułka wrocławskia:294</item>
+        <item>Burak:38</item>
+        <item>Cebula:30</item>
+        <item>Cebula czerwona:30</item>
+        <item>Cebula konserwowa:52</item>
+        <item>Cebulka dymka:30</item>
+        <item>Chili:40</item>
+        <item>Chleb chrupki:353</item>
+        <item>Chleb pszenny:257</item>
+        <item>Chleb zwykły:248</item>
+        <item>Chleb żytni pełnoziarnisty:225</item>
+        <item>Chleb żytni razowy:213</item>
+        <item>Chrzan:67</item>
+        <item>Ciecierzyca konserwowa:127</item>
+        <item>Cieciorka:364</item>
+        <item>Cielęcina łopatka:106</item>
+        <item>Cielęcina sznyclówka:105</item>
+        <item>Cielęcina udziec:108</item>
+        <item>Cukier:405</item>
+        <item>Cukier brązowy:380</item>
+        <item>Cukier puder:387</item>
+        <item>Cukinia:15</item>
+        <item>Curry:325</item>
+        <item>Ćwikła:40</item>
+        <item>Cykoria:21</item>
+        <item>Cynamon:247</item>
+        <item>Cytryna:36</item>
+        <item>Czekolada gorzka:554</item>
+        <item>Czereśnie:61</item>
+        <item>Czerwona fasola konserwowa :87</item>
+        <item>Czosnek:146</item>
+        <item>Czosnek granulowany:331</item>
+        <item>Daktyle suszone:277</item>
+        <item>Dorsz filety bez skóry:70</item>
+        <item>Dynia:28</item>
+        <item>Dżem jagodowy niskosłodzony:153</item>
+        <item>Dżem śliwkowy niskosłodzony:153</item>
+        <item>Dżem truskawkowy niskosłodzony:153</item>
+        <item>Dżem wiśniowy niskosłodzony:154</item>
+        <item>Ekstrakt z wanilii:288</item>
+        <item>Estragon:295</item>
+        <item>Fasola biała suche nasiona:288</item>
+        <item>Fasola cięta, konserwowa, bez zalewy:16</item>
+        <item>Fasola szparagowa:27</item>
+        <item>Fasolka szparagowa, mrożonka:24</item>
+        <item>Figi suszone:290</item>
+        <item>Filet z makreli w sosie pomidorowym:150</item>
+        <item>Flądra świeża:83</item>
+        <item>Gałka muszkatołowa:475</item>
+        <item>Goździk:323</item>
+        <item>Grahamka:252</item>
+        <item>Granat:83</item>
+        <item>Grejpfrut:36</item>
+        <item>Grejpfrut czerwony:42</item>
+        <item>Grejpfrut zielony:36</item>
+        <item>Groch suche nasiona:293</item>
+        <item>Groszek ptysiowy:476</item>
+        <item>Groszek zielony:75</item>
+        <item>Groszek zielony konserwowy:63</item>
+        <item>Gruszka:54</item>
+        <item>Grzyby suszone:284</item>
+        <item>Halibut świeży:98</item>
+        <item>Herbata bez cukru:0</item>
+        <item>Imbir:347</item>
+        <item>Jabłka suszone:238</item>
+        <item>Jabłko:46</item>
+        <item>Jagody:45</item>
+        <item>Jajko kurze:139</item>
+        <item>Jajko przepiórcze:158</item>
+        <item>Jarmuż:29</item>
+        <item>Jogurt naturalny 2%:60</item>
+        <item>Kabanos:326</item>
+        <item>Kabanos z kurczaka:247</item>
+        <item>Kajzerka:296</item>
+        <item>Kakao w proszku 16%:448</item>
+        <item>Kalafior:22</item>
+        <item>Kalarepa:29</item>
+        <item>Kapary:23</item>
+        <item>Kapusta biała:29</item>
+        <item>Kapusta czerwona:27</item>
+        <item>Kapusta kwaszona:12</item>
+        <item>Kapusta pekińska:12</item>
+        <item>Kapusta włoska:38</item>
+        <item>Kardamon:311</item>
+        <item>Karp świeży:110</item>
+        <item>Kasza gryczana:336</item>
+        <item>Kasza jaglana:346</item>
+        <item>Kasza jęczmienna pęczak:334</item>
+        <item>Kasza jęczmienna perłowa:327</item>
+        <item>Kasza kukurydziana:337</item>
+        <item>Kasza manna:348</item>
+        <item>Kaszanka jęczmienna:195</item>
+        <item>Kawa bez cukru:2</item>
+        <item>Keczup:93</item>
+        <item>Kefir 2%:51</item>
+        <item>Kefir 2% z wapniem:51</item>
+        <item>Kiełbasa delikatesowa z kurczaka:109</item>
+        <item>Kiełbasa domowa:320</item>
+        <item>Kiełbasa jałowcowa z kurczaka:236</item>
+        <item>Kiełbasa kanapkowa z kurczaka:179</item>
+        <item>Kiełbasa lubuska:249</item>
+        <item>Kiełbasa parówkowa:323</item>
+        <item>Kiełbasa podlaska z kurczaka:232</item>
+        <item>Kiełbasa podsuszana z kurczaka:162</item>
+        <item>Kiełbasa podwawelska:247</item>
+        <item>Kiełbasa rzeszowska:203</item>
+        <item>Kiełbasa śląska:210</item>
+        <item>Kiełbasa sucha krakowska:323</item>
+        <item>Kiełbasa sucha myśliwska:291</item>
+        <item>Kiełbasa szynkowa z kurczaka:110</item>
+        <item>Kiełbasa toruńska:263</item>
+        <item>Kiełbasa zwyczajna:209</item>
+        <item>Kiełbasa żywiecka:315</item>
+        <item>Kiełbaski bawarskie:308</item>
+        <item>Kiełki bambusa:20</item>
+        <item>Kiełki brokuła:57</item>
+        <item>Kiełki buraka:37</item>
+        <item>Kiełki fasoli mung:29</item>
+        <item>Kiełki lucerny:23</item>
+        <item>Kiełki rzodkiewki:43</item>
+        <item>Kiełki słonecznika:31</item>
+        <item>Kiełki soczewicy:119</item>
+        <item>Kiełki soi:141</item>
+        <item>Kiwi:56</item>
+        <item>Kminek:333</item>
+        <item>Kolendra:279</item>
+        <item>Komosa ryżowa - quinoa:334</item>
+        <item>Komosa ryżowa - Quinoa:334</item>
+        <item>Koncentrat pomidorowy 30%:92</item>
+        <item>Koperek:26</item>
+        <item>Kostka rosołowa Rosół z kury z pietruszką i lubczykiem :300</item>
+        <item>Krewetka tygrysia:92</item>
+        <item>Kukurydza kolba:110</item>
+        <item>Kukurydza konserwowa:102</item>
+        <item>Kumin (kmin rzymski):429</item>
+        <item>Kurki:32</item>
+        <item>Kurkuma:354</item>
+        <item>Len mielony:253</item>
+        <item>Len w nasionach:500</item>
+        <item>Limonka:30</item>
+        <item>Liście mięty:77</item>
+        <item>Liść laurowy:313</item>
+        <item>Łosoś smażony:380</item>
+        <item>Łosoś świeży:201</item>
+        <item>Łosoś wędzony:162</item>
+        <item>Magii:17</item>
+        <item>Majeranek:271</item>
+        <item>Majonez:714</item>
+        <item>Mak:478</item>
+        <item>Mąka kukurydziana:337</item>
+        <item>Mąka pszenna typ 1850:309</item>
+        <item>Mąka pszenna typ 500:343</item>
+        <item>Mąka pszenna typ 550:344</item>
+        <item>Mąka pszenna typ 750:341</item>
+        <item>Makaron bezjajeczny:364</item>
+        <item>Makaron czterojajeczny:391</item>
+        <item>Makaron dwujajeczny:373</item>
+        <item>Makaron farfalline pełnoziarnisty z 5 zbóż:351</item>
+        <item>Makaron penne pełnoziarnisty:345</item>
+        <item>Makaron rurki (z pszenicy Durum):350</item>
+        <item>Makaron ryżowy:356</item>
+        <item>Makaron spaghetti razowy:354</item>
+        <item>Mąka ryżowa:348</item>
+        <item>Mąka żytnia typ 1400:310</item>
+        <item>Mąka żytnia typ 2000:301</item>
+        <item>Mąka żytnia typ 580:330</item>
+        <item>Mąka żytnia typ 720:327</item>
+        <item>Makrela świeża:181</item>
+        <item>Makrela wędzona:221</item>
+        <item>Maliny:29</item>
+        <item>Mandarynki:42</item>
+        <item>Mango:67</item>
+        <item>Marchewka:27</item>
+        <item>Marchewka z groszkiem, mrożonka:39</item>
+        <item>Marchewki mini:41</item>
+        <item>Maślanka 0,5 %:37</item>
+        <item>Masło ekstra:735</item>
+        <item>Masło klarowane:883</item>
+        <item>Masło orzechowe:634</item>
+        <item>Masło śmietankowe:659</item>
+        <item>Melon:36</item>
+        <item>Mieszanka mąk gryczanej, ryżowej lub owsianej:351</item>
+        <item>Mieszanka warzywna z kurczakiem, ryżem i grzybami chińskimi, mrożonka:87</item>
+        <item>Mieszanka ziół:1</item>
+        <item>Mięta pieprzowa:77</item>
+        <item>Migdały:572</item>
+        <item>Miks ulubionych warzwy:38</item>
+        <item>Mintaj świeży:73</item>
+        <item>Miód pszczeli:324</item>
+        <item>Mleko kokosowe w puszce:203</item>
+        <item>Mleko kozie 2%:68</item>
+        <item>Mleko owcze:107</item>
+        <item>Mleko sojowe:41</item>
+        <item>Mleko spożywcze 2,0%:51</item>
+        <item>Mleko w proszku pełne:479</item>
+        <item>Mleko zagęszczone niesłodzone:131</item>
+        <item>Mleko zagęszczone słodzone:326</item>
+        <item>Młody jęczmień proszek:320</item>
+        <item>Morele:47</item>
+        <item>Morele suszone:284</item>
+        <item>Morszczuk świeży:89</item>
+        <item>Mus jabłkowy:124</item>
+        <item>Musli z orzechami i rodzynkami:375</item>
+        <item>Musli z suszonymi owocami:325</item>
+        <item>Musztarda:162</item>
+        <item>Napój kokosowy w kartonie:30</item>
+        <item>Nasiona Chia:490</item>
+        <item>Natka pietruszki:41</item>
+        <item>Nektarynka:48</item>
+        <item>Ocet balsamiczny:116</item>
+        <item>Ocet jabłkowy:24</item>
+        <item>Ocet winny:20</item>
+        <item>Ogórek:13</item>
+        <item>Ogórek kiszony:11</item>
+        <item>Ogórek konserwowy:23</item>
+        <item>Ogórek kwaszony:11</item>
+        <item>Ogórki konserwowe:24</item>
+        <item>Olej kokosowy:900</item>
+        <item>Olej rzepakowy:884</item>
+        <item>Olej słonecznikowy:884</item>
+        <item>Oliwa z oliwek:882</item>
+        <item>Oliwki czarne:125</item>
+        <item>Oliwki zielone marynowane:125</item>
+        <item>Oregano:265</item>
+        <item>Orzechy arachidowe:560</item>
+        <item>Orzechy brazylijskie:656</item>
+        <item>Orzechy laskowe:640</item>
+        <item>Orzechy piniowe:673</item>
+        <item>Orzechy pistacjowe:589</item>
+        <item>Orzechy włoskie:645</item>
+        <item>Orzechy ziemne:603</item>
+        <item>Ostra papryka:0</item>
+        <item>Otręby pszenne:185</item>
+        <item>Paluszek krabowy:113</item>
+        <item>Papaja:41</item>
+        <item>Papryka czerwona:28</item>
+        <item>Papryka czerwona konserwowa:30</item>
+        <item>Papryka sucha:289</item>
+        <item>Papryka zielona:18</item>
+        <item>Pasternak:57</item>
+        <item>Pasztet pieczony:390</item>
+        <item>Pasztet podlaski z kurczaka:228</item>
+        <item>Pasztet z kurczaka:214</item>
+        <item>Pestki dyni:556</item>
+        <item>Pestki słonecznika:561</item>
+        <item>Pesto:340</item>
+        <item>Pieczarki:17</item>
+        <item>Pieczarki marynowane konserwowe:19</item>
+        <item>Pieczeń wołowa:117</item>
+        <item>Pieczona polędwica wołowa:168</item>
+        <item>Pieczywo tostowe:305</item>
+        <item>Pieczywo tostowe grahamowe:273</item>
+        <item>Pieczywo Wasa:370</item>
+        <item>Pieprz biały:296</item>
+        <item>Pieprz czarny:318</item>
+        <item>Pieprz czerwony:318</item>
+        <item>Pierś indyka bez skóry:84</item>
+        <item>Pierś indyka ze skórą:100</item>
+        <item>Pierś kurczaka bez skóry:99</item>
+        <item>Pietruszka:38</item>
+        <item>Pikle konserwowe:62</item>
+        <item>Płatki jaglane:361</item>
+        <item>Płatki jęczmienne:355</item>
+        <item>Płatki kukurydziane:363</item>
+        <item>Płatki migdałowe:581</item>
+        <item>Płatki owsiane:366</item>
+        <item>Płatki pszenne:351</item>
+        <item>Płatki ryżowe:344</item>
+        <item>Płatki żytnie:343</item>
+        <item>Podudzie indyka bez skóry:100</item>
+        <item>Polędwica łososiowa:106</item>
+        <item>Polędwica luksusowa:177</item>
+        <item>Polędwica sopocka:165</item>
+        <item>Polędwica wołowa:113</item>
+        <item>Polędwica z indyka:105</item>
+        <item>Polędwica z piersi kurczaka:93</item>
+        <item>Pomarańcza:44</item>
+        <item>Pomidor:15</item>
+        <item>Pomidory koktajlowe:15</item>
+        <item>Pomidory z puszki:23</item>
+        <item>Por:24</item>
+        <item>Porzeczki białe:33</item>
+        <item>Porzeczki czarne:35</item>
+        <item>Porzeczki czerwone:31</item>
+        <item>Powidła śliwkowe:214</item>
+        <item>Poziomki:33</item>
+        <item>Proszek do pieczenia:97</item>
+        <item>Przecier pomidorowy:25</item>
+        <item>Przyprawa do drobiu:307</item>
+        <item>Przyprawa do ryb:307</item>
+        <item>Przyprawa "Jarzynka":90</item>
+        <item>Pstrąg strumieniowy świeży:97</item>
+        <item>Pstrąg tęczowy świeży:160</item>
+        <item>Pstrąg wędzony:117</item>
+        <item>Pumpernikiel:240</item>
+        <item>Rabarbar:9</item>
+        <item>Rodzynki suszone:277</item>
+        <item>Rostbef wołowy:152</item>
+        <item>Rozmaryn:331</item>
+        <item>Rukola:25</item>
+        <item>Ryż biały:344</item>
+        <item>Ryż brązowy:322</item>
+        <item>Rzepa:26</item>
+        <item>Rzeżucha:32</item>
+        <item>Rzodkiewka:14</item>
+        <item>Salami:540</item>
+        <item>Salami popularne:568</item>
+        <item>Salami z pieprzem:405</item>
+        <item>Sałata:14</item>
+        <item>Sałata lodowa:14</item>
+        <item>Sałata rzymska:17</item>
+        <item>Sandacz świeży:84</item>
+        <item>Sardynki w oleju:221</item>
+        <item>Sardynki w pomidorach:162</item>
+        <item>Schab pieczony:291</item>
+        <item>Seler konserwowy:17</item>
+        <item>Seler korzeniowy:21</item>
+        <item>Seler naciowy:13</item>
+        <item>Ser Brie pełnotłusty:329</item>
+        <item>Ser Camembert pełnotłusty:291</item>
+        <item>Ser Cheddar pełnotłusty:391</item>
+        <item>Ser Edamski pełnotłusty:313</item>
+        <item>Serek homogenizowany:161</item>
+        <item>Serek homogenizowany waniliowy:159</item>
+        <item>Serek twarogowy ziarnisty:101</item>
+        <item>Serek typu "Fromage" naturalny:379</item>
+        <item>Ser Ementaler pełnotłusty:380</item>
+        <item>Ser Gouda pełnotłusty:316</item>
+        <item>Ser kozi:388</item>
+        <item>Ser kozi, twarożek:168</item>
+        <item>Ser Mascarpone:394</item>
+        <item>Ser mozzarella:254</item>
+        <item>Ser mozzarella light:157</item>
+        <item>Ser Parmezan:452</item>
+        <item>Ser Radamer:339</item>
+        <item>Ser Rokpol pełnotłusty:363</item>
+        <item>Ser Salami pełnotłusty:351</item>
+        <item>Ser topiony:298</item>
+        <item>Ser Trapistów pełnotłusty:367</item>
+        <item>Ser Trapistów tłusty:351</item>
+        <item>Ser twarogowy chudy:99</item>
+        <item>Ser twarogowy półtłusty:133</item>
+        <item>Ser twarogowy tłusty:175</item>
+        <item>Ser Tylżycki pełnotłusty:353</item>
+        <item>Ser typu "Feta":215</item>
+        <item>Sezam:632</item>
+        <item>Siemie lniane:534</item>
+        <item>Skórka cytrynowa:120</item>
+        <item>Skrobia kukurydziana:353</item>
+        <item>Skrobia ziemniaczana:343</item>
+        <item>Śledź solony:217</item>
+        <item>Śledź w oleju:301</item>
+        <item>Śliwka:45</item>
+        <item>Śliwki suszone:267</item>
+        <item>Słodki ziemniak (batat):86</item>
+        <item>Śmietana, 12% tłuszczu:133</item>
+        <item>Śmietana, 18% tłuszczu:184</item>
+        <item>Śmietanka kremowa 30%:287</item>
+        <item>Soczewica czerwona suche nasiona:327</item>
+        <item>Soja suche nasiona:382</item>
+        <item>Sok ananasowy:48</item>
+        <item>Sok brzoskwiniowo pomarańczowy:32</item>
+        <item>Sok buraczany:34</item>
+        <item>Sok cytrynowy:30</item>
+        <item>Sok egzotyczny:57</item>
+        <item>Sok grejpfrutowy:40</item>
+        <item>Sok jabłkowy:42</item>
+        <item>Sok marchwiowo brzoskwiniowy:44</item>
+        <item>Sok marchwiowo jabłkowo bananowy:39</item>
+        <item>Sok marchwiowo jabłkowo śliwkowy:39</item>
+        <item>Sok marchwiowo jabłkowy:44</item>
+        <item>Sok marchwiowo pomarańczowy:40</item>
+        <item>Sok marchwiowy:43</item>
+        <item>Sok pomarańczowo grejpfrutowy:43</item>
+        <item>Sok pomarańczowy:43</item>
+        <item>Sok pomidorowy:14</item>
+        <item>Sok wieloowocowy:45</item>
+        <item>Sok wielowarzywny:25</item>
+        <item>Sól:0</item>
+        <item>Sola świeża:83</item>
+        <item>Sól czosnkowa:9</item>
+        <item>Sos sojowy:0</item>
+        <item>Starta skórka z pomarańczy:120</item>
+        <item>Suszone pomidory:215</item>
+        <item>Syrop klonowy:265</item>
+        <item>Szafran:310</item>
+        <item>Szałwia:315</item>
+        <item>Szczaw:21</item>
+        <item>Szczupak świeży:82</item>
+        <item>Szczypiorek:29</item>
+        <item>Szparagi:18</item>
+        <item>Szpinak:16</item>
+        <item>Szpinak, mrożonka:15</item>
+        <item>Szponder wołowy:217</item>
+        <item>Szprotka wędzona:243</item>
+        <item>Szynka delikatesowa z kurczaka:123</item>
+        <item>Szynka kanapkowa:102</item>
+        <item>Szynka parmeńska:135</item>
+        <item>Szynka wiejska:253</item>
+        <item>Szynka wieprzowa gotowana:233</item>
+        <item>Szynka wołowa gotowana:107</item>
+        <item>Szynka z indyka:84</item>
+        <item>Szynka z piersi kurczaka:98</item>
+        <item>Szynka z udźca kurczaka:117</item>
+        <item>Szynkówka wieprzowa:191</item>
+        <item>Szynkówka wołowa:85</item>
+        <item>Tofu:112</item>
+        <item>Truskawki:28</item>
+        <item>Tuńczyk w oleju:190</item>
+        <item>Tuńczyk w sosie własnym:96</item>
+        <item>Tymianek:276</item>
+        <item>Udko kurczaka bez skóry:125</item>
+        <item>Udko kurczaka ze skórą:158</item>
+        <item>Udziec indyka bez skóry:104</item>
+        <item>Udziec indyka ze skórą:131</item>
+        <item>Wafle ryżowe:390</item>
+        <item>Wątróbka kurczaka:136</item>
+        <item>Wędzona pierś z kurczaka:107</item>
+        <item>Wędzonka wołowa gotowana:102</item>
+        <item>Wieprzowina karkówka:267</item>
+        <item>Wieprzowina łopatka:257</item>
+        <item>Wieprzowina schab surowy:174</item>
+        <item>Wieprzowina żeberka:321</item>
+        <item>Wino białe półwytrawne:81</item>
+        <item>Wino białe słodkie:95</item>
+        <item>Wino białe wytrawne:66</item>
+        <item>Wino czerwone:68</item>
+        <item>Winogrona:69</item>
+        <item>Wiórki kokosowe:606</item>
+        <item>Wiśnie:47</item>
+        <item>Włoszczyzna krojona w paski:25</item>
+        <item>Woda:0</item>
+        <item>Zarodki pszenne:323</item>
+        <item>Żelatyna:343</item>
+        <item>Ziele angielskie:263</item>
+        <item>Ziemniaki:77</item>
+        <item>Ziemniaki młode:69</item>
+        <item>Zioła prowansalskie:1</item>
+        <item>Żółtko jajka kurzego:314</item>
+        <item>Żurawina niskosłodzona do mięs:161</item>
+        <item>Żurawina suszona:320</item>
+    </string-array>
+</resources>

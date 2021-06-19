@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.michalsvec.singlerowcalendar.calendar.SingleRowCalendar
+        android:id="@+id/main_single_row_calendar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        app:deselection="false"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:pastDaysCount="120"
+        app:futureDaysCount="120"
+        app:longPress="false"
+        app:multiSelection="false" />
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/main_single_row_calendar">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingStart="16dp"
+            android:paddingTop="16dp"
+            android:paddingEnd="16dp">
+
+            <LinearLayout
+                android:id="@+id/llMainSupper"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:orientation="vertical"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+            <ImageView
+                android:id="@+id/ivAddSupper"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toBottomOf="@+id/textView7"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/textView7"
+                app:srcCompat="@drawable/ic_round_add_circle_24"
+                tools:ignore="ContentDescription" />
+
+            <LinearLayout
+                android:id="@+id/llMainDinner"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:orientation="vertical"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView4" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:drawablePadding="8dp"
+                android:gravity="center_vertical"
+                android:text="@string/dinner"
+                android:textColor="#424242"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:drawableLeftCompat="@drawable/ic_dinner"
+                app:layout_constraintEnd_toStartOf="@+id/ivAddDinner"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/llMainBreakfast" />
+
+            <LinearLayout
+                android:id="@+id/llMainBreakfast"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:orientation="vertical"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView">
+
+            </LinearLayout>
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/textView"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:drawablePadding="8dp"
+                android:gravity="center_vertical"
+                android:text="@string/breakfast"
+                android:textColor="#424242"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:drawableLeftCompat="@drawable/ic_breakfast"
+                app:layout_constraintEnd_toStartOf="@+id/ivAddBreakfast"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/textView7"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:drawablePadding="8dp"
+                android:gravity="center_vertical"
+                android:text="@string/supper"
+                android:textColor="#424242"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:drawableLeftCompat="@drawable/ic_supper"
+                app:layout_constraintEnd_toStartOf="@+id/ivAddSupper"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/llMainDinner" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/textView8"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="8dp"
+                android:drawablePadding="8dp"
+                android:gravity="center_vertical"
+                android:text="@string/hydration"
+                android:textColor="#424242"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:drawableLeftCompat="@drawable/ic_water"
+                app:layout_constraintEnd_toStartOf="@+id/tvHydration"
+                app:layout_constraintHorizontal_bias="0.125"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/llMainSupper" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/textView5"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="32dp"
+                android:layout_marginEnd="8dp"
+                android:drawablePadding="8dp"
+                android:gravity="center_vertical"
+                android:text="Suma kalorii"
+                android:textColor="#424242"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:drawableLeftCompat="@drawable/ic_calories"
+                app:layout_constraintEnd_toStartOf="@+id/tvCaloriesSum"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView8" />
+
+            <ImageView
+                android:id="@+id/ivAddBreakfast"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toBottomOf="@+id/textView"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/ic_round_add_circle_24" />
+
+            <ImageView
+                android:id="@+id/ivAddDinner"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toBottomOf="@+id/textView4"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/textView4"
+                app:srcCompat="@drawable/ic_round_add_circle_24" />
+
+            <TextView
+                android:id="@+id/tvHydration"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="8dp"
+                android:text="0 ml"
+                app:layout_constraintBottom_toBottomOf="@+id/textView8"
+                app:layout_constraintEnd_toStartOf="@+id/ivEditHydration"
+                app:layout_constraintTop_toTopOf="@+id/textView8" />
+
+            <ImageView
+                android:id="@+id/ivEditHydration"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                app:layout_constraintBottom_toBottomOf="@+id/textView8"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/textView8"
+                app:srcCompat="@drawable/ic_round_edit_24" />
+
+            <TextView
+                android:id="@+id/tvCaloriesSum"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0 kcal"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toBottomOf="@+id/textView5"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="@+id/textView5" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="200dp"
+                android:layout_height="1dp"
+                android:background="#E0E0E0"
+                app:layout_constraintBottom_toTopOf="@+id/textView5"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/textView8" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
